@@ -1,3 +1,3 @@
 # Design Archiver
 
-A bot that deletes messages in Hack Club's #ship channel if they don't contain a link or attachment, and sends them a friendly message reminding them of the rules
+A bot that gathers links to fancy design resources in Hack Club's #design channel and posts them in a website
